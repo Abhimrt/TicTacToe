@@ -1,0 +1,14 @@
+D:\Coding\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.exe
+D:\Coding\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.deps.json
+D:\Coding\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.runtimeconfig.json
+D:\Coding\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.dll
+D:\Coding\TicTacToe\TicTacToe\bin\Debug\net6.0\TicTacToe.pdb
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfoInputs.cache
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.AssemblyInfo.cs
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.dll
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\refint\TicTacToe.dll
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.pdb
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\TicTacToe.genruntimeconfig.cache
+D:\Coding\TicTacToe\TicTacToe\obj\Debug\net6.0\ref\TicTacToe.dll
